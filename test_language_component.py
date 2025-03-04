@@ -7,7 +7,7 @@ import re
 
 REGION = "eastus"
 MODEL = "gpt-4o-mini-2024-07-18"
-API_KEY = "f974444c22879c2a3e0249e34d561539"
+API_KEY = ""
 
 API_BASE = "https://api.tonggpt.mybigai.ac.cn/proxy"
 ENDPOINT = f"{API_BASE}/{REGION}"

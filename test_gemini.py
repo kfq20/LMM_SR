@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyCjlgeHj1QMhjXTlO9c5ioizIP8XPtu3dE")
+client = genai.Client(api_key="")
 
 print("Uploading file...")
 # video_file = client.files.upload(file="/Users/fancy/Downloads/ViSR_v1.0/ViSR_v1.0/video/0531.avi")

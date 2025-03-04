@@ -5,7 +5,7 @@ import json
 import time
 import re
 
-client = genai.Client(api_key="AIzaSyCjlgeHj1QMhjXTlO9c5ioizIP8XPtu3dE")
+client = genai.Client(api_key="")
 
 VIDEO_FOLDER = "data/video"  # 视频文件夹路径
 OUTPUT_JSON = "data/social_relation_results.json"  # 输出的 JSON 文件

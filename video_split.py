@@ -4,7 +4,7 @@ import json
 import re
 import time
 
-client = genai.Client(api_key="AIzaSyCjlgeHj1QMhjXTlO9c5ioizIP8XPtu3dE")
+client = genai.Client(api_key="")
 
 prompt = f"""
     Analyze the given video and extract structured information. The conversation mainly involves two speakers.
