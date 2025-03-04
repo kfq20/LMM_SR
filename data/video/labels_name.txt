@@ -1,0 +1,8 @@
+0 Leader-subordinate
+1 Colleague
+2 Service
+3 Parent-offspring
+4 Sibling
+5 Couple
+6 Friend
+7 Opponent
